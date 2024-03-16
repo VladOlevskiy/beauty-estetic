@@ -4,7 +4,7 @@ import { Wrapper } from "./App-styled";
 function App() {
   return (
     <Wrapper>
-      <h1>Beauty Estetic Company</h1>
+      <h1>Beauty Esthetic Company</h1>
     </Wrapper>
   );
 }
